@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **klundstrom33/klundstrom33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Ph.D. student in the Climate, Meteorology, & Atmospheric Sciences Department at the University of Illinois Urbana-Champaign!  
+
+- Research Interests:
+  -  Radar Meteorlogy
+  -  Winter Weather
+  -  Mesoscale Dynamics
+  -  Microphysics
+ 
+- Background:
+  - 2022: B.S. in Atmospheric Sciences from UIUC
+  - 2024: M.S. in Atmospheric Sciences from UIUC
+
+More details can be found on my [LinkedIn](www.linkedin.com/in/kaylee-heimes-lundstrom-9973891ab)
+
+ 
+
