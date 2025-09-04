@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am a Ph.D. student in the Climate, Meteorology, & Atmospheric Sciences Department at the University of Illinois Urbana-Champaign!  
 
 - Research Interests:
-  -  Radar Meteorlogy
+  -  Radar Meteorology
   -  Winter Weather
   -  Mesoscale Dynamics
   -  Microphysics
