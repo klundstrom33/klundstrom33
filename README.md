@@ -26,7 +26,7 @@ I am a Ph.D. student in the Climate, Meteorology, & Atmospheric Sciences Departm
   - 2022: B.S. in Atmospheric Sciences from UIUC
   - 2024: M.S. in Atmospheric Sciences from UIUC
 
-More details can be found on my [LinkedIn] (www.linkedin.com/in/kaylee-heimes-lundstrom-9973891ab)
+More details can be found on my [LinkedIn](www.linkedin.com/in/kaylee-heimes-lundstrom-9973891ab)
 
  
 
